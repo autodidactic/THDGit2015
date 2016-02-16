@@ -1,0 +1,36 @@
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\SendScheduledEmails.exe.config
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\SendScheduledEmails.exe
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\SendScheduledEmails.pdb
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\HDMSEmail.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\Oracle.DataAccess.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\OpenPop.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\obj\Debug\SendScheduledEmails.exe
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\obj\Debug\SendScheduledEmails.pdb
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\EntityFramework.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\Quote Detail.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\Quote Email.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\HDMSUtils.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\OldCrypto.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\System.Web.Mvc.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\Newtonsoft.Json.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\System.Web.Razor.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\System.Web.WebPages.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\Quote Detail.pdb
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\HDMSUtils.pdb
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\OldCrypto.pdb
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\System.Web.Mvc.xml
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\System.Web.Razor.xml
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\System.Web.WebPages.xml
+c:\users\sap6164\documents\visual studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sap6164\Documents\Visual Studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\Common.Logging.Core.dll
+C:\Users\sap6164\Documents\Visual Studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\Common.Logging.dll
+C:\Users\sap6164\Documents\Visual Studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\Common.Logging.Log4Net1213.dll
+C:\Users\sap6164\Documents\Visual Studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\HdmsCommonLogger.dll
+C:\Users\sap6164\Documents\Visual Studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\HdmsSerializerUtil.dll
+C:\Users\sap6164\Documents\Visual Studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\log4net.dll
+C:\Users\sap6164\Documents\Visual Studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\sap6164\Documents\Visual Studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\sap6164\Documents\Visual Studio 2013\Projects\SendScheduledEmails\SendScheduledEmails\obj\Debug\SendScheduledEmails.csprojResolveAssemblyReference.cache
